@@ -1,2 +1,2 @@
 # Scripts
-Scripler reposu
+Scriptler reposu
